@@ -10,3 +10,15 @@
 [submodule "modules/d"]
 	path = modules/d
 	url = https://github.com/premake/premake-dlang.git
+[submodule "modules/vstool"]
+	path = modules/vstool
+	url = https://github.com/TurkeyMan/premake-vstool.git
+[submodule "modules/visualgdb"]
+	path = modules/visualgdb
+	url = https://github.com/TurkeyMan/premake-visualgdb.git
+[submodule "modules/emscripten"]
+	path = modules/emscripten
+	url = https://github.com/TurkeyMan/premake-emscripten.git
+[submodule "modules/nacl"]
+	path = modules/nacl
+	url = https://github.com/TurkeyMan/premake-nacl.git

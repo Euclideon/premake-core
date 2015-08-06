@@ -9,4 +9,8 @@
 		"monodevelop",
 		"codelite",
 		"d",
+		"visualgdb",
+		"vstool",
+		"emscripten",
+		"nacl",
 	}
