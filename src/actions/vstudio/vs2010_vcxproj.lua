@@ -1183,6 +1183,8 @@
 			if value then
 				m.element("DebugInformationFormat", nil, value)
 			end
+		elseif cfg.symbols == p.OFF then
+			m.element("debugInformationFormat", nil, "None")
 		end
 	end
 
